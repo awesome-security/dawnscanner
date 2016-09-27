@@ -5,9 +5,11 @@ It supports [Sinatra](http://www.sinatrarb.com),
 [Padrino](http://www.padrinorb.com) and [Ruby on Rails](http://rubyonrails.org)
 frameworks.
 
-_latest update: Tue Sep 27 19:41:28 CEST 2016_
+_latest update: Tue Sep 27 23:10:22 CEST 2016_
 
 * Issue #199 - CVE-2015-4020 seems to give the wrong Solution
+* Issue #188 - Security Related Headers results in false positive when
+  secure_headers gem is used
 
 ## Version 1.6.3 - codename: Tow Mater (2016-09-06)
 
